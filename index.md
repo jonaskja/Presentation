@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 # Outline of Project
 
-A simple workspace for students/researchers working with the same data (e.g. writing a paper togheter). The application consist four main options: 
+A simple workspace for students/researchers working with the same data. The application consist of four main options: 
 
 1. View the data of choice
 2. Get descriptive statistics of chosen variables (plot and table)
